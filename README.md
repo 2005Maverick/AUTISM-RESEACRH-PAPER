@@ -56,6 +56,10 @@ References
 For detailed methodology, results, and implementation details, see the full paper: Vision Transformer-Based Analysis of Handwritten Text for Automated Dyslexia Screening by Sumit Aich, Pranav Singh, Hussain Falih Mahdi, Ayan Sar, and Tanupriya Choudhury
 
 
+
+
+
+
 Project 2 : Continuous Analysis of Autism Spectrum Disorder Using Advanced Deep Learning Approach for Gradient-Based Classification
 
 
@@ -92,14 +96,11 @@ Evaluation: Model performance is tracked across epochs using accuracy and loss c
 
 Severity Prediction: The system outputs confidence scores for each prediction, which can be mapped to severity levels for ASD (e.g., >90% severe, 70–90% moderate, <70% mild).
 
-Results
-Model	 Accuracy	Precision	Recall	AUC
-VGG19	0.77	0.77	0.78	0.77
-VGG16	0.78	0.78	0.77	0.78
-XceptionNet	0.83	0.83	0.83	0.83
-MobileNetV2	0.81	0.81	0.81	0.81
-InceptionV3	0.79	0.79	0.79	0.79
-ResNet50	0.85	0.85	0.85	0.85
+
+![image](https://github.com/user-attachments/assets/0ae726b9-6a8e-4165-b9a1-d3af2312b8c6)
+
+
+
 Best Performance: ResNet50 achieved the highest test accuracy (85%), precision, recall, and AUC, making it the most robust model for ASD detection in this study.
 
 Severity Estimation: The model provides a confidence-based estimation of ASD severity, supporting more nuanced clinical interpretation.
