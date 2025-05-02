@@ -1,4 +1,4 @@
-[Model-Accuracy-Precision-Recall-AUC.csv](https://github.com/user-attachments/files/20011073/Model-Accuracy-Precision-Recall-AUC.csv)Project 1 : Vision Transformer-Based Analysis of Handwritten Text for Early Dyslexia Detection in Children
+Project 1 : Vision Transformer-Based Analysis of Handwritten Text for Early Dyslexia Detection in Children
 
 
 Overview
