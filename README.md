@@ -1,4 +1,3 @@
-Project README
 Vision Transformer-Based Analysis of Handwritten Text for Early Dyslexia Detection in Children
 Overview
 This project presents an AI-driven framework for the early screening of dyslexia in children through the analysis of handwritten text images using Vision Transformer (ViT) models. Dyslexia is a prevalent neurodevelopmental disorder that impairs reading and writing skills. Early detection is crucial for timely intervention, yet traditional diagnostic methods are often subjective, time-consuming, and inaccessible. This work leverages advanced computer vision and deep learning techniques to provide an objective, scalable, and automated solution for dyslexia screening based on handwriting patterns.
